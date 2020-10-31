@@ -1,0 +1,1 @@
+Testing for my basic Home Assistant config files.
